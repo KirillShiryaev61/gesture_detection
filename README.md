@@ -1,8 +1,8 @@
 # Проект: Gesture Detection
 
-![Обложка](https://kirillshiryaev61.github.io/gesture_detection/photo_1.png)
+![Обложка](./images/photo_1.png)
 
-🔗 [Видео презентация](https://kirillshiryaev61.github.io/gesture_detection/video_presentation.mov)
+🔗 [Видео презентация](https://kirillshiryaev61.github.io/gesture_detection/video_presentation.MP4)
 
 ### Описание проекта:
 
